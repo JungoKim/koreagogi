@@ -35,7 +35,7 @@ var yongho_gmarker = new naver.maps.Marker({
 
 
 // image
-var slideIndex = 0;
+/*var slideIndex = 0;
 
 function plusSlides(n) {
   showSlides(slideIndex += n);
@@ -63,7 +63,7 @@ function showSlides() {
 }
 
 showSlides();
-
+*/
 
 //jquery
 (function($) {
